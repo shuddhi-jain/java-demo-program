@@ -1,6 +1,6 @@
 public class Main
   {
     public static void main(String args[]){
-      System.out.prinln("Starting up with jenkins");
+      System.out.println("Starting up with jenkins");
     }
   }
